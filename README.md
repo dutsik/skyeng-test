@@ -3,7 +3,7 @@
 
 ## Задание 1. Спроектировать схему БД для хранения библиотеки.
 
-Результат: https://www.db-fiddle.com/f/oTqUodUdaV337kQfwh8jTW/5 
+Результат: [db-fiddle](https://www.db-fiddle.com/f/oTqUodUdaV337kQfwh8jTW/5) 
 
 ## Задание 2. Реализовать счетчик вызова скрипта.
 
@@ -27,3 +27,6 @@
 php ./task4/index.php 1231242121321323 123124325143251235
 ```
 
+## Задание 5 Написать SQL запрос который выведет все пропуски.
+
+Результат: [db-fiddle](https://www.db-fiddle.com/f/86ALUANE2pLEu7ZiaiHHKG/0) 
