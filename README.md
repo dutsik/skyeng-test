@@ -1,5 +1,7 @@
 # Тестовое задание в SkyEng
 
+Задание можно посмотреть здесь: [https://docs.google.com/document/d/1d0pY2Bq3bOCmaEAoEduDhQdOlorw9IdM2XkQkZraFOs/edit]
+
 
 ## Задание 1. Спроектировать схему БД для хранения библиотеки.
 
