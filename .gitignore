@@ -1,3 +1,5 @@
 .idea
 task2/count/*
 vendor/*
+tmp/*
+!tmp/.keep

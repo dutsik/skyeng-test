@@ -1,0 +1,22 @@
+{
+  "name": "dutsik/skyeng-test",
+  "description": "Добавить возможность получения данных от стороннего сервиса.",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Ivan Adutskevich",
+      "email": "dutsik@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": { "": "src/" }
+  },
+  "require": {
+    "php": ">=5.5.0",
+    "psr/cache": "~1.0",
+    "monolog/monolog": "~1.22.0",
+    "phpfastcache/phpfastcache": "5.0.0"
+
+  }
+}
