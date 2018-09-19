@@ -38,6 +38,7 @@ function sum($a, $b)
 
 if ($argc !== 3 || !preg_match("/^[1-9]{1}[0-9]*$/", $argv[1]) || !preg_match("/^[1-9]{1}[0-9]*$/", $argv[2])) {
     echo 'Input 2 positive integers';
+    exit;
 }
 
 echo sum($argv[1], $argv[2]);
