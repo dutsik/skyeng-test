@@ -1,2 +1,3 @@
 .idea
-./task2/count/*
+task2/count/*
+vendor/*
